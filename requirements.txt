@@ -1,0 +1,2 @@
+click==8.0.1
+aiomanhole==0.6.0
